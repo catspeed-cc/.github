@@ -6,10 +6,10 @@ Official Catspeed Website: http://catspeed.cc/
 # Hosted services:
 - Invidious instance (currently down): http://invidious.catspeed.cc/
 
-# Current projects that may interest you:
+# Current projects:
 - https://github.com/catspeed-cc/sd-webui-forge-docker - A dockerized version of Stable Diffusion WebUI Forge
 
-# Future projects that may interest you:
+# Future projects:
 - https://github.com/catspeed-cc/sd-webui-reforge-docker - A dockerized version of Stable Diffusion WebUI reForge
 
 # Do you or someone you know need dockerization work completed?
