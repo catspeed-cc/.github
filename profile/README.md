@@ -3,8 +3,10 @@ Catspeed.cc is my unofficial organization on GitHub used for development project
 
 Official Catspeed Website: https://catspeed.cc/
 
+
 # Hosted services:
 - Invidious instance (currently down): https://invidious.catspeed.cc/
+
 
 # Current projects:
 - https://github.com/catspeed-cc/sd-webui-forge-docker - A dockerized version of Stable Diffusion WebUI Forge
@@ -12,8 +14,10 @@ Official Catspeed Website: https://catspeed.cc/
 # Future projects:
 - https://github.com/catspeed-cc/sd-webui-reforge-docker - A dockerized version of Stable Diffusion WebUI reForge
 
+
 # Need dockerization work completed?
 If you or anyone you know personally and have connections to requires your project to be dockerized, I will consider doing it for free, depending on the size of the project, and what currently is on my plate. You may contact me by [submitting an issue ticket on this repository](https://github.com/catspeed-cc/sd-webui-forge-docker/issues)
+
 
 ~ @mooleshacat
 
