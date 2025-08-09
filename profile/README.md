@@ -1,10 +1,10 @@
 # About catspeed.cc
 Catspeed.cc is my unofficial organization on GitHub used for development projects. I was working on setting up an invidious instance, and ended up giving up for a while.
 
-Official Catspeed Website: http://catspeed.cc/
+Official Catspeed Website: https://catspeed.cc/
 
 # Hosted services:
-- Invidious instance (currently down): http://invidious.catspeed.cc/
+- Invidious instance (currently down): https://invidious.catspeed.cc/
 
 # Current projects:
 - https://github.com/catspeed-cc/sd-webui-forge-docker - A dockerized version of Stable Diffusion WebUI Forge
