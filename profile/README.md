@@ -7,7 +7,7 @@ Official Catspeed Website: https://catspeed.cc/
 - Invidious instance (currently down): https://invidious.catspeed.cc/
 
 # Current projects:
-- https://github.com/catspeed-cc/releasehelper-menu
+- https://github.com/catspeed-cc/releasehelper-menu - A release helper menu for both sd-forge projects below
 - https://github.com/catspeed-cc/sd-webui-forge-docker - A dockerized version of lllyasviel/stable-diffusion-webui-forge
 - https://github.com/catspeed-cc/sd-webui-reforge-docker - A dockerized version of Panchovix/stable-diffusion-webui-reForge
 
