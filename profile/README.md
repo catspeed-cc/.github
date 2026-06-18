@@ -6,7 +6,7 @@ Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
 Official Catspeed Github: https://github.com/catspeed-cc
 
 ## Hosted services:
-- Invidious instance (currently down): https://invidious.catspeed.cc/ ((DOWN))
+- Invidious instance: https://invidious.catspeed.cc/ ((DOWN))
 
 ## Current projects:
 - https://github.com/catspeed-cc/openwrt/tree/tew-829dru-25.12 ((CURRENT))
