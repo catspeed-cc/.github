@@ -5,6 +5,8 @@ Official Catspeed Website: https://catspeed.cc/
 Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
 Official Catspeed Github: https://github.com/catspeed-cc
 
+Official Catspeed Status Pages: https://status.catspeed.cc/ ((COMING SOON))
+
 ## Hosted services:
 - Invidious instance: https://invidious.catspeed.cc/ ((DOWN))
 
