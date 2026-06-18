@@ -1,9 +1,9 @@
 # catspeed.cc
 catspeed.cc is my unofficial organization on GitHub used for development projects. I was working on setting up an invidious instance, and ended up giving up for a while.
 
-Official Catspeed Website: https://catspeed.cc/
-Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
-Official Catspeed Github: https://github.com/catspeed-cc
+- Official Catspeed Website: https://catspeed.cc/
+- Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
+- Official Catspeed Github: https://github.com/catspeed-cc
 
 Official Catspeed Status Pages: https://status.catspeed.cc/ ((COMING SOON))
 
