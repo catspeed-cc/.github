@@ -3,18 +3,18 @@ catspeed.cc is my unofficial organization on GitHub used for development project
 
 - Official Catspeed Website: https://catspeed.cc/
 
-## Catspeed Official:
+## catspeed official:
 - Official Catspeed Status Pages: https://status.catspeed.cc/ ((COMING SOON))
 - Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
 - Official Catspeed Github: https://github.com/catspeed-cc
 - Official Catspeed GPL Source Mirror: https://gpl-mirror.catspeed.cc/mirror/
 - Official Catspeed Invidious Instance: https://invidious.catspeed.cc/ ((DOWN))
 
-## Current projects:
+## current projects:
 - https://github.com/catspeed-cc/openwrt/tree/tew-829dru-25.12
 - https://github.com/catspeed-cc/tew-829dru-goldrepo
 
-## Projects on hold:
+## projects on hold:
 - https://github.com/catspeed-cc/releasehelper-menu - A release helper menu for both sd-forge projects below
 - https://github.com/catspeed-cc/sd-webui-forge-docker - A dockerized version of lllyasviel/stable-diffusion-webui-forge
 - https://github.com/catspeed-cc/sd-webui-reforge-docker - A dockerized version of Panchovix/stable-diffusion-webui-reForge
