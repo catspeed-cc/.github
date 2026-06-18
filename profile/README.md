@@ -1,6 +1,8 @@
 # catspeed.cc
 catspeed.cc is my unofficial organization on GitHub used for development projects. I was working on setting up an invidious instance, and ended up giving up for a while.
 
+I like to dabble with AI. I am currently just using Brave/Leo/Claude in the browser. I have a monster Threadripper 5965WX 256GB ECC RAM, 2x A100, 1x RTX3070 - AI Kaiju 🐍 Sovreign 👑 - to run my AI workloads locally. This beast was spec'd utilizing AI help. I just need to find time to set up AI services :)
+
 - Official Catspeed Website: https://catspeed.cc/
 
 ## catspeed official:
