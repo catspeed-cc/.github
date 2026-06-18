@@ -11,8 +11,8 @@ catspeed.cc is my unofficial organization on GitHub used for development project
 - Official Catspeed Invidious Instance: https://invidious.catspeed.cc/ ((DOWN))
 
 ## Current projects:
-- https://github.com/catspeed-cc/openwrt/tree/tew-829dru-25.12 ((CURRENT))
-- https://github.com/catspeed-cc/tew-829dru-goldrepo ((CURRENT))
+- https://github.com/catspeed-cc/openwrt/tree/tew-829dru-25.12
+- https://github.com/catspeed-cc/tew-829dru-goldrepo
 
 ## Projects on hold:
 - https://github.com/catspeed-cc/releasehelper-menu - A release helper menu for both sd-forge projects below
