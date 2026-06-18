@@ -4,11 +4,11 @@ catspeed.cc is my unofficial organization on GitHub used for development project
 - Official Catspeed Website: https://catspeed.cc/
 
 ## Hosted services:
-- Official Catspeed Invidious Instance: https://invidious.catspeed.cc/ ((DOWN))
 - Official Catspeed Status Pages: https://status.catspeed.cc/ ((COMING SOON))
 - Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
 - Official Catspeed Github: https://github.com/catspeed-cc
 - Official Catspeed GPL Source Mirror: https://gpl-mirror.catspeed.cc/mirror/
+- Official Catspeed Invidious Instance: https://invidious.catspeed.cc/ ((DOWN))
 
 ## Current projects:
 - https://github.com/catspeed-cc/openwrt/tree/tew-829dru-25.12 ((CURRENT))
