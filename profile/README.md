@@ -3,7 +3,7 @@ catspeed.cc is my unofficial organization on GitHub used for development project
 
 - Official Catspeed Website: https://catspeed.cc/
 
-## Hosted services:
+## Catspeed Official:
 - Official Catspeed Status Pages: https://status.catspeed.cc/ ((COMING SOON))
 - Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
 - Official Catspeed Github: https://github.com/catspeed-cc
