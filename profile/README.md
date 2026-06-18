@@ -16,6 +16,9 @@ I like to dabble with AI. I am currently just using Brave/Leo/Claude in the brow
 - https://github.com/catspeed-cc/openwrt/tree/tew-829dru-25.12
 - https://github.com/catspeed-cc/tew-829dru-goldrepo
 
+## future plans:
+- public OpenWRT build server for automagic building releases for tew-829dru (and other routers I port only)
+
 ## projects on hold:
 - https://github.com/catspeed-cc/releasehelper-menu - A release helper menu for both sd-forge projects below
 - https://github.com/catspeed-cc/sd-webui-forge-docker - A dockerized version of lllyasviel/stable-diffusion-webui-forge
