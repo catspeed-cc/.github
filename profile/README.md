@@ -2,6 +2,8 @@
 catspeed.cc is my unofficial organization on GitHub used for development projects. I was working on setting up an invidious instance, and ended up giving up for a while.
 
 Official Catspeed Website: https://catspeed.cc/
+Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
+Official Catspeed Github: https://github.com/catspeed-cc
 
 ## Hosted services:
 - Invidious instance (currently down): https://invidious.catspeed.cc/ ((DOWN))
@@ -18,6 +20,6 @@ Official Catspeed Website: https://catspeed.cc/
 - https://github.com/catspeed-cc/torch-my-gpu - A torch stress test for your NVidia GPU written in Python (compatible with enterprise GPUs like A100)
 
 
-~ @mooleshacat
+~ @mooleshacat :3
 
 EOF
