@@ -6,6 +6,7 @@ I like to dabble with AI. I am currently just using Brave/Leo/Claude in the brow
 - Official Catspeed Website: https://catspeed.cc/
 
 ## catspeed official:
+- Official Catspeed Website: https://catspeed.cc/
 - Official Catspeed Status Pages: https://status.catspeed.cc/ ((COMING SOON))
 - Official Catspeed Gitea: https://gitea.catspeed.cc/catspeed-cc
 - Official Catspeed Github: https://github.com/catspeed-cc
